@@ -2,7 +2,7 @@
 Queries, rules, and lab walkthroughs for threat hunting
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ---
-### [⚡Firefox Zero-Day – CVE-2024-9680 | Critical UAF RCE in Firefox]([https://github.com/Sree-Ajitha/Threat-Hunting-Playbooks/blob/1dbf8c2b346fc9a1ded19bc277bb9e33eb6de441/Firefox%20Zero-Day%20CVE-2024-9680.md])
+### [⚡Firefox Zero-Day - CVE-2024-9680](https://github.com/Sree-Ajitha/Threat-Hunting-Playbooks/blob/1dbf8c2b346fc9a1ded19bc277bb9e33eb6de441/Firefox%20Zero-Day%20CVE-2024-9680.md)
 ### 
 - **Exploit Type:** Use-After-Free (UAF) → Remote Code Execution  
 - **Attack Methods:** Drive-by downloads, watering hole attacks  
